@@ -1,0 +1,1 @@
+$env:PYTHONPATH = "C:\Users\Victor Broering\pycode\webscreping\AI-Web-Scraper"
